@@ -26,32 +26,68 @@ Hey 👋, I'm Harsh Rathore
 <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode" />
 </p>
 
-🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-<div align="canter">
-<div style="display:flex; gap:20px;">
-  <div>
-🔹 CampusBite - Campus Cafeteria Online Ordering App
+<table>
+<tr>
 
-✔️ React.js
-✔️ Node.js + MongoDB + Express
-✔️ Live Deployment
+<td width="50%" valign="top">
 
-🌐 https://campusbite-1eqe.onrender.com/
-🔗 https://github.com/Rathore95688/CampusBite
+### 🔹 CampusBite - Campus Cafeteria Online Ordering App
 
-</div>
-<div>
-🔹 Portfolio Website
+✔️ React.js  
+✔️ Node.js + Express + MongoDB  
+✔️ Live Deployment  
 
-✔️ My personal portfolio website
-✔️ JavaScript, React, TailwindCSS
+🌐 **Live:** https://campusbite-1eqe.onrender.com/
 
-🔗 https://github.com/Rathore95688/portfolio-website
+🔗 **GitHub:** https://github.com/Rathore95688/CampusBite
 
-</div>
-</div>
-</div>
+</td>
+
+<td width="50%" valign="top">
+
+### 🖼️ Image Gallery App
+
+✔️ React.js + TailwindCSS  
+✔️ Dynamic data fetch from external API  
+✔️ Pagination (Next / Prev)
+
+🔗 **GitHub:** https://github.com/Rathore95688/Image-Gallery
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💼 Portfolio Website
+
+✔️ Personal Portfolio  
+✔️ React.js + TailwindCSS
+
+🌐 **Live:** https://your-portfolio-link.vercel.app/
+
+🔗 **GitHub:** https://github.com/Rathore95688/portfolio-website
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💬 Chat Application
+
+✔️ Socket.io  
+✔️ MERN Stack  
+✔️ Real-time Messaging
+
+🔗 **GitHub:** https://github.com/Rathore95688/chat-app
+
+</td>
+
+</tr>
+</table>
 
 📊 GitHub Analytics
 
