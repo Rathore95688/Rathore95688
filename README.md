@@ -38,7 +38,7 @@ Hey 👋, I'm Harsh Rathore
 ✔️ Live Deployment
 
 🌐 https://campusbite-1eqe.onrender.com/
-🔗 GitHub Repo
+🔗 https://github.com/Rathore95688/CampusBite
 
 </td>
 </tr>
