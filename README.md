@@ -1,124 +1,155 @@
-Hey 👋, I'm Harsh Rathore
+<h1 align="center">Hi 👋, I'm Harsh Rathore</h1>
 
-🚀 Frontend Developer | 💡 React.js | JavaScript | HTML | TailwindCSS | Python | C | Java | 
-🧪 QA & Software Testing
+<h3 align="center">Frontend Developer | React | HTML | TailwindCSS | Python | Java | C | QA & Software Testing</h3>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Rathore95688&label=Profile%20Views&color=blue&style=flat" alt="Rathore95688" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Rathore95688?label=Followers&style=social" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DSA+with+C%2B%2B;Learning+System+Design;Open+to+Internships" />
 </p>
 
-👨‍💻 About Me
+---
 
-
-💻 Frontend Developer with focus on React.js
-🌱 Currently working on PlaceRise – a full-stack placement management app
-🔭 Contributing to real-world projects (backend APIs + frontend integration)
-🧪 Interested in QA & Software Testing
-🎯 Goal: Crack top Internship & Full-Time opportunities
-
-
-
-🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode" />
-</p>
-
-<h2>🚀 Featured Projects</h2>
+# 👨‍💻 About Me
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%">
 
-### 🔹 CampusBite - Campus Cafeteria Online Ordering App
-
-✔️ React.js  
-✔️ Node.js + Express + MongoDB  
-✔️ Live Deployment  
-
-🌐 **Live:** https://campusbite-1eqe.onrender.com/
-
-🔗 **GitHub:** https://github.com/Rathore95688/CampusBite
+- 💻 MERN Stack Developer
+- 🔥 Solved 150+ DSA Problems
+- 🌱 Currently learning **System Design & Backend Scaling**
+- 🚀 Love building real-world scalable applications
+- 🎯 Goal: Crack Top Tech Internship
 
 </td>
 
-<td width="50%" valign="top">
+<td>
 
-### 🖼️ Image Gallery App
-
-✔️ React.js + TailwindCSS  
-✔️ Dynamic data fetch from external API  
-✔️ Pagination (Next / Prev)
-
-🔗 **GitHub:** https://github.com/Rathore95688/Image-Gallery
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💼 Portfolio Website
-
-✔️ Personal Portfolio  
-✔️ React.js + TailwindCSS
-
-🌐 **Live:** https://your-portfolio-link.vercel.app/
-
-🔗 **GitHub:** https://github.com/Rathore95688/portfolio-website
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💬 Chat Application
-
-✔️ Socket.io  
-✔️ MERN Stack  
-✔️ Real-time Messaging
-
-🔗 **GitHub:** https://github.com/Rathore95688/chat-app
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280"/>
 
 </td>
 
 </tr>
 </table>
 
-📊 GitHub Analytics
+---
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Rathore95688&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathore95688&theme=radical" alt="Harsh's Streak" height="170"/>
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,tailwind,python,java,git,github,vscode" />
+
 </p>
 
-🌐 Connect With Me
+---
 
-<p align="left">
-<a href="https://linkedin.com/in/[https://www.linkedin.com/in/harsh-rathore-772124294]" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Rathore95688" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🍔 CampusBite
+
+Campus Cafeteria Online Ordering App
+
+✅ React.js
+
+✅ Node.js + Express + MongoDB
+
+✅ Live Deployment
+
+🌐 https://campusbite-1eqe.onrender.com/
+
+🔗 https://github.com/Rathore95688/CampusBite
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🖼 Image Gallery App
+
+React + TailwindCSS
+
+✅ External API
+
+✅ Search Images
+
+✅ Pagination
+
+🔗 https://github.com/Rathore95688/Image-Gallery
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💼 Portfolio Website
+
+Personal Portfolio
+
+✅ React
+
+✅ TailwindCSS
+
+✅ Responsive UI
+
+🔗 https://github.com/Rathore95688/portfolio-website
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rathore95688&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rathore95688&theme=tokyonight"/>
+
 </p>
 
-<!--
-**Rathore95688/Rathore95688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rathore95688&theme=tokyo-night"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Rathore95688">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harsh-rathore-772124294">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:rathoreharsh641@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Rathore95688&color=blue)
+
+</p>
