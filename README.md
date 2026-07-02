@@ -28,9 +28,9 @@ Hey 👋, I'm Harsh Rathore
 
 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="canter">
+<div style="display:flex; gap:20px;">
+  <div>
 🔹 CampusBite - Campus Cafeteria Online Ordering App
 
 ✔️ React.js
@@ -40,20 +40,18 @@ Hey 👋, I'm Harsh Rathore
 🌐 https://campusbite-1eqe.onrender.com/
 🔗 https://github.com/Rathore95688/CampusBite
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</div>
+<div>
 🔹 Portfolio Website
 
 ✔️ My personal portfolio website
 ✔️ JavaScript, React, TailwindCSS
 
-🔗 GitHub Repo
+🔗 https://github.com/Rathore95688/portfolio-website
 
-
-</table>
-
+</div>
+</div>
+</div>
 
 📊 GitHub Analytics
 
