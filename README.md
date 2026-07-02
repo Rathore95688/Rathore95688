@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | React | HTML | TailwindCSS | Python | Java | C | QA & Software Testing</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DSA+with+C%2B%2B;Learning+System+Design;Open+to+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;QA+&+Software+Testing;Learning+From+Errors;Open+to+Internships" />
 </p>
 
 ---
@@ -67,26 +67,6 @@ Campus Cafeteria Online Ordering App
 🔗 https://github.com/Rathore95688/CampusBite
 
 </td>
-
-<td width="50%" valign="top">
-
-## 🖼 Image Gallery App
-
-React + TailwindCSS
-
-✅ External API
-
-✅ Search Images
-
-✅ Pagination
-
-🔗 https://github.com/Rathore95688/Image-Gallery
-
-</td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
