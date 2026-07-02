@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | React | HTML | TailwindCSS | Python | Java | C | QA & Software Testing</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;QA+&+Software+Testing;Learning+From+Errors;Open+to+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;QA+&+Software+Testing;Open+to+Internships" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 ## 🍔 CampusBite
 
@@ -68,7 +68,7 @@ Campus Cafeteria Online Ordering App
 
 </td>
 
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 ## 💼 Portfolio Website
 
