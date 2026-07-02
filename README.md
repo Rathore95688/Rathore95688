@@ -1,6 +1,7 @@
 Hey 👋, I'm Harsh Rathore
 
-🚀 Frontend Developer | 💡 React.js | JavaScript | HTML | CSS | 🧪 QA & Software Testing
+🚀 Frontend Developer | 💡 React.js | JavaScript | HTML | TailwindCSS | Python | C | Java | 
+🧪 QA & Software Testing
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Rathore95688&label=Profile%20Views&color=blue&style=flat" alt="Rathore95688" />
