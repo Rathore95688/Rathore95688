@@ -28,7 +28,31 @@ Hey 👋, I'm Harsh Rathore
 
 🚀 Featured Projects
 
-ProjectDescriptionTech🔗 PlaceRisePlacement Management App - Backend APIs + FrontendReact.js, Node.js, Express🔗 Portfolio WebsiteMy personal portfolio websiteJavaScript, React🔗 E-commerce website web applicationHTML, CSS, JS
+<table>
+<tr>
+<td width="50%" valign="top">
+🔹 CampusBite - Campus Cafeteria Online Ordering App
+
+✔️ React.js
+✔️ Node.js + MongoDB + Express
+✔️ Live Deployment
+
+🌐 https://campusbite-1eqe.onrender.com/
+🔗 GitHub Repo
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🔹 Portfolio Website
+
+✔️ My personal portfolio website
+✔️ JavaScript, React, TailwindCSS
+
+🔗 GitHub Repo
+
+
+</table>
 
 
 📊 GitHub Analytics
