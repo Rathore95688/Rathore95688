@@ -76,11 +76,14 @@ Personal Portfolio
 
 ✅ React
 
-✅ TailwindCSS
+✅ TailwindCSS + Responsive UI
 
-✅ Responsive UI
+✅ Live Deployment
+
+🌐 https://portfolio-website-eight-theta-25.vercel.app/
 
 🔗 https://github.com/Rathore95688/portfolio-website
+
 
 </td>
 
